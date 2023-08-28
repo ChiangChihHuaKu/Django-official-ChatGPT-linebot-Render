@@ -1,5 +1,5 @@
 langchain
-Django==2.0
+Django==3.2
 pymupdf
 chromadb==0.3.29
 line-bot-sdk==1.8.0
